@@ -15,6 +15,7 @@ PCB
 BOM
 
 Item|Price
+----|----
 Seed RP2040|10.99
 
 
