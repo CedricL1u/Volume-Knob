@@ -16,6 +16,12 @@ BOM
 
 Item|Price
 ----|----
-Seed RP2040|10.99
+Seed RP2040 with header pins|10.99
+Waveshare 1.28in round LCD | 22.99
+EC11E18244A5 Rotary Encoder w shipping cost| 12.91
+PCB | 15.92
+Total | 62.81
+
+
 
 
