@@ -5,13 +5,16 @@ I made this project because I have a 65% keyboard which doesn't have any volume 
 **Pictures**
 
 3D Model
+
 ![image](https://github.com/user-attachments/assets/81f49c3c-1edf-4759-aba0-2d0e111e2ef3)
 
 PCB
+
 ![image](https://github.com/user-attachments/assets/14ec97df-2af5-4588-b168-25282093b752)
 
 BOM
 
-|Item|Price|Use|Source|Total Price
-|Seed RP2040|10.99|
+Item|Price
+Seed RP2040|10.99
+
 
