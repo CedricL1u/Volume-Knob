@@ -2,20 +2,27 @@ title: "Volume Knob"
 author: "Cedric"
 description: "A volume knob with a LCD screen on top powered by a RP2040 and custom PCB"
 created_at: "2024-06-10"
+**Total time spent: 15h**
+
 
 # June 10th: Got the schematic layed out!
 Took a while to lay out the schematic as it was my first time designing a PCB. It also took me a while to find a suitable round LCD as most of them weren't compatible with the rp2040 or either had a flex pcb which seems hard to solder. When I began to draw out my schematic, I realized that there was no symbol for the screen so I ended up having to learn how to create my own custom symbol. I chose the EC11E encoder because it had satisfying clicks when you rotate it and also a integrated button which I plan to use for pause controls. It also took quite a bit of time figuring out what pin to connect to what since I've never designed a pcb before. 
+
 ![image](https://github.com/user-attachments/assets/606b7c35-3b3f-4865-a3cf-a6582a6a0e58)
+
 **Total time spent: 6h**
 
 # June 11th: Got my PCB layed out!
 I was a bit confused with how to center things as I'm used to CAD software where you can easily constrain and dimension things. I eventually found the move to exact position tool which was really helpful in creating precise placements for everything especially mounting holes in my pcb. 
+
 ![image](https://github.com/user-attachments/assets/a26349f6-f7d0-49e2-9705-bcf6d7732bdc)
+
 **Total time spent: 4h**
 
 # June 12th: Started designing my case
 As I was designing the case, I realized that my initial desing of having my rotary encoder face upwards towards the screen wouldn't work. I pivoted by changing it so that the rotary encoder is upside down that way, it still retains the click and I dont have to redo my pcb. Also since the screen wasn't perfectly round, I extended the screen cover a bit more to make it seem round when it really wasn't.
 ![image](https://github.com/user-attachments/assets/fd327a0c-0860-4a7c-a724-841a0a5685b6)
+
 **Total time spent: 5h**
 
 
