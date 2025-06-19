@@ -22,6 +22,7 @@ EC11E18244A5 Rotary Encoder w shipping cost| 12.91
 PCB | 15.92
 Total | 62.81
 
+Most of the cost from the rotary encoder is because of shipping. For the waveshare, I had to order it off amazon because AliExpress shipping would arrive after Undercity.
 
 
 
