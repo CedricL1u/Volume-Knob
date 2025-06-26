@@ -25,5 +25,13 @@ As I was designing the case, I realized that my initial desing of having my rota
 
 **Total time spent: 5h**
 
+# June 25th: Programming the raspberry pi
+I decided to use circuitpython to program the screen because it was apparently the most beginner friendly language. I've never coded a microcontroller before so I just decided to start with a simple program the flashes the LED. This took ages to get working even though I just copy pasted code from the Seed Studio Xiao rp2040 documentation. Later I found out that the code was actually working, just blinking another LED that was really small and hard to see. The LED I wanted it to blink was called NeoPixel which I eventually got working.
+
+https://github.com/user-attachments/assets/7845eadc-a8b4-4a9f-9cb8-2a3589337535
+
+
+
+
 
 
