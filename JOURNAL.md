@@ -30,6 +30,11 @@ I decided to use circuitpython to program the screen because it was apparently t
 
 https://github.com/user-attachments/assets/7845eadc-a8b4-4a9f-9cb8-2a3589337535
 
+# June 26th: Trying to get the screen working
+After hours of trying to get the screen working with circuitpython and looking at open source code I couldn't get it working. I decided to just switch to Arduino IDE and learn C because there was more driver support for it and it was more powerful.
+
+
+
 
 
 
