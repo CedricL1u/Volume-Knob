@@ -33,6 +33,9 @@ https://github.com/user-attachments/assets/7845eadc-a8b4-4a9f-9cb8-2a3589337535
 # June 26th: Trying to get the screen working
 After hours of trying to get the screen working with circuitpython and looking at open source code I couldn't get it working. I decided to just switch to Arduino IDE and learn C because there were more resources for it. After downloading the Arduino IDE I got the LED flashing within seconds, there was so much documentation on Arduino and it felt way easier.
 
+# July 8th: Recieved rotary encoder but realized pcb was wired wrong
+I recieved the rotary encoder and realized that the entire thing was wired wrong because when I flipped the rotary encoder like how I planned in cad it completely reversed the pins. Furthermore, I used the MOSI pin on the rotary encoder which was necessary for the screen because it needed to use SPI.
+
 
 
 
